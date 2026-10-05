@@ -87,7 +87,4 @@ I'm interested in opportunities where I can contribute to **backend development,
 * Email: [aokocamila@gmail.com]
 * GitHub: [github.com/Camilaaoko](https://github.com/Camilaaoko)
 
-**Camilaaoko/Camilaaoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
