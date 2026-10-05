@@ -1,5 +1,5 @@
 
-<!--# Hi, I'm Camila Aoko
+#Hi, I'm Camila Aoko
 
 Software Developer focused on **backend development, APIs, software testing, and data-driven applications**.
 
@@ -90,4 +90,4 @@ I'm interested in opportunities where I can contribute to **backend development,
 **Camilaaoko/Camilaaoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
--->
+
