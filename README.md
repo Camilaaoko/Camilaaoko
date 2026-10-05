@@ -1,5 +1,5 @@
 
-#Hi, I'm Camila Aoko
+Hi, I'm Camila Aoko
 
 Software Developer focused on **backend development, APIs, software testing, and data-driven applications**.
 
